@@ -1,0 +1,38 @@
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\GoodLuck.exe.config
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\GoodLuck.exe
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\GoodLuck.pdb
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormMain.resources
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.Properties.Resources.resources
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.csproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.exe
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.pdb
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\System.Data.SQLite.dll
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\System.Data.SQLite.xml
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\x86\e_sqlite3.dll
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\bin\Debug\x64\e_sqlite3.dll
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2015\Projects\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormBKConfig.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\GoodLuck.exe.config
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.exe
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.pdb
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\x86\e_sqlite3.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\x64\e_sqlite3.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\GoodLuck.exe
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\GoodLuck.pdb
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\System.Data.SQLite.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\System.Data.SQLite.xml
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormBKConfig.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormMain.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.Properties.Resources.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.csproj.GenerateResource.Cache
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormShowUser.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormPrizeSetting.resources
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\Interop.WMPLib.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\AxInterop.WMPLib.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\Interop.WMPLib.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\AxInterop.WMPLib.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.csproj.ResolveComReference.cache
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\LinqToExcel.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\Remotion.Linq.dll
+D:\zhiwenhu\GoodLuck\GoodLuck\bin\Debug\Remotion.Linq.xml
+D:\zhiwenhu\GoodLuck\GoodLuck\obj\Debug\GoodLuck.FormShowWinner.resources
